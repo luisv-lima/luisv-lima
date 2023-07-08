@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Luisvl-lima 😁
+## Bem-vindo(a) ao perfil do luisv-lima 😁
 
  <div>
    <a href="https://github.com/luisv-lima">
@@ -14,7 +14,6 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
  
