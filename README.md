@@ -15,9 +15,4 @@
  <br>
  
  
-<div> 
- 
- 
-  ![Snake animation](https://github.com/luisv-lima/luisv-lima/blob/output/github-contribution-grid-snake.svg)
 
-</div>
