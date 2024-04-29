@@ -1,9 +1,17 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1279B2&random=false&width=435&lines=Bem+vindo+ao+perfil+do+Lu%C3%ADs+Lima!!)](https://git.io/typing-svg)
 
  <div>
    <a href="https://github.com/luisv-lima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisv-lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&langs_count=6&theme=tokyonight"/>
+
+
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luís-lima-2859482a5/)
+
+<h3 align="left">My Stack</h3>
 
 </div>
 <div style="display: inline_block"><br>
