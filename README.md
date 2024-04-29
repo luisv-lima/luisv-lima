@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do luisv-lima 😁
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1279B2&random=false&width=435&lines=Bem+vindo+ao+perfil+do+Lu%C3%ADs+Lima!!)](https://git.io/typing-svg)
 
  <div>
    <a href="https://github.com/luisv-lima">
