@@ -29,7 +29,7 @@
 <h3 align="left">Contatos!</h3>
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luísv-lima/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luisv-lima/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?hl=en#inbox)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=19&pause=1000&random=false&width=435&lines=Conecte-se+comigo+no+LinkedIn!;%F0%9F%8C%B1Lo+que+siembras+hoy%2C+cosechar%C3%A1s+ma%C3%B1ana+)](https://git.io/typing-svg)
