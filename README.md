@@ -19,10 +19,10 @@
   <img align="center" alt="Luis-Go" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luis-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-
-
- 
+  <img align="center" alt="Luis-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Luis-SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/develop/icons/sqlite/sqlite-original-wordmark.svg">
+  <img align="center" alt="Luis-Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/develop/icons/swagger/swagger-original.svg">
+  <img align="center" alt="Luis-Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/develop/icons/postman/postman-original.svg">
 </div>
 
 
