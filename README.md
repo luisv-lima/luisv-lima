@@ -1,11 +1,25 @@
 # Olá, Luís Lima aqui!
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bem+vindo+ao+meu+perfil!!!;Desenvolvedor+Back-end;MBTI%3A+INFP;Linguagens+e+Tecnologias%E2%AC%87)](https://git.io/typing-svg)
 
  <div>
    <a href="https://github.com/luisv-lima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisv-lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&langs_count=6&theme=tokyonight"/>
+
+<p align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisv-lima&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&theme=dark&bg_color=00000000&hide_border=true"/>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+      </td>
+    </tr>
+  </table>
+</p>
+ 
 
 
 
