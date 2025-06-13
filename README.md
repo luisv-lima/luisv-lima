@@ -1,56 +1,44 @@
-# Olá, Luís Lima aqui!
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bem+vindo+ao+meu+perfil!!!;Desenvolvedor+Back-end;MBTI%3A+INFP;Linguagens+e+Tecnologias%E2%AC%87)](https://git.io/typing-svg)
-
- <div>
-   <a href="https://github.com/luisv-lima">
-
-<p align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisv-lima&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&theme=dark&bg_color=00000000&hide_border=true"/>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
-      </td>
-    </tr>
-  </table>
-</p>
- 
-
-
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Seja+bem+vindo!+Welcome!+Bienvenido!;Desenvolvedor+Back-end;MBTI%3A+INFP;Linguagens+e+Tecnologias%E2%AC%87" alt="Typing SVG">
+  </a>
 </div>
 
-### Linguagens e Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Luis-Go" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luis-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Luis-SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/develop/icons/sqlite/sqlite-original-wordmark.svg">
-  <img align="center" alt="Luis-Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/develop/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Luis-Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/develop/icons/postman/postman-original.svg">
+#
+
+<p align="center">Desenvolvedor Back-End em formação, apaixonado por lógica, APIs, tecnologias em nuvem e boas práticas. Estou sempre em busca de evoluir e encarar novos desafios!</p>
+
+#
+
+<img align="right" alt="GIF animado" height="190px" src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" />
+
+<h3 align="left">Contatos</h3>
+
+<div align="left">
+  <a href="mailto:dev.luislima@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="27" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/luisv-lima/" target="_blank"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="27" alt="linkedin logo" />
+  </a>
 </div>
 
+<h3 align="left">Tecnologias </h3>
 
-<h3 align="left">Contatos!</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
+</div>
 
+#
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisv-lima/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?hl=en#inbox)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=19&pause=1000&random=false&width=435&lines=Conecte-se+comigo+no+LinkedIn!;%F0%9F%8C%B1Lo+que+siembras+hoy%2C+cosechar%C3%A1s+ma%C3%B1ana+)](https://git.io/typing-svg)
-
- 
- 
-
- 
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisv-lima&show_icons=true&theme=blue&hide_border=false&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&theme=blue&hide_border=false&langs_count=6" height="150" alt="Top Langs" />
+</div>
 
