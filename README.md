@@ -36,9 +36,6 @@
 </div>
 
 #
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisv-lima&show_icons=true&theme=blue&hide_border=false&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&theme=blue&hide_border=false&langs_count=6" height="150" alt="Top Langs" />
-</div>
+[![luisv-lima's github stats](https://github-readme-stats.vercel.app/api?username=luisv-lima&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
