@@ -36,6 +36,9 @@
 </div>
 
 #
-[![luisv-lima's github stats](https://github-readme-stats.vercel.app/api?username=luisv-lima&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisv-lima&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="Top Langs" />
+</div>
+
 
