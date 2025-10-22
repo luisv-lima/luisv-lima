@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" alt="GIF animado" height="190px" src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" />
+<img align="right" alt="GIF animado" height="190px" src="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/assets/VID_20251019151729.gif" />
 
 <h3 align="left">Contatos</h3>
 
