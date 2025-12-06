@@ -6,7 +6,8 @@
 
 #
 
-<p align="center">Desenvolvedor Back-End em formação, apaixonado por lógica, APIs, tecnologias em nuvem e boas práticas. Estou sempre em busca de evoluir e encarar novos desafios!</p>
+<img src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" width="30" height="30"/>
+<p align="center">Desenvolvedor Back-End, IA e Automação Digital - em formação!</p>
 
 #
 
