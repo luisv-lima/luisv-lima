@@ -35,10 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
 </div>
 
+<br clear="all">
+
 #
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luisv-lima&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="GitHub Stats" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=luisv-lima&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="Top Langs" />
 </div>
-
-
