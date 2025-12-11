@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Seja+bem+vindo!+Welcome!+Bienvenido!;Desenvolvedor+Back-end;MBTI%3A+INFP;Linguagens+e+Tecnologias%E2%AC%87" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Bem-vindo!+Welcome!+Bienvenido!+Bienvenue!;Powered+by+A%C3%A7a%C3%AD+%26+Coffee;MBTI:+INFP" alt="Typing SVG" />
   </a>
 </div>
 
