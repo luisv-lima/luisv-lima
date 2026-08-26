@@ -1,46 +1,51 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/light.svg">
+  <img alt="Luís Vinícius Oliveira Lima" src="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/light.svg">
+</picture>
+
+<!-- ===== GITHUB STATS ===== -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Bem-vindo!+Welcome!+Bienvenido!+Bienvenue!;Powered+by+A%C3%A7a%C3%AD+%26+Coffee;MBTI:+INFP" alt="Typing SVG" />
-  </a>
+
+  <!-- Streak Stats — Full Width -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=luisv-lima&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+    <img width="100%" src="https://streak-stats.demolab.com/?user=luisv-lima&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Streak Stats" />
+  </picture>
+
+  <br/>
+
+  <!-- GitHub Stats + Top Languages — Side by Side -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-beige-44.vercel.app/api?username=luisv-lima&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+    <img width="49%" src="https://github-readme-stats-one-beige-44.vercel.app/api?username=luisv-lima&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-beige-44.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+    <img width="49%" src="https://github-readme-stats-one-beige-44.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top Languages" />
+  </picture>
+
 </div>
 
-#
-
-<img src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" width="30" height="30"/>
-<p align="center">Desenvolvedor Back-End, IA e Automação Digital - em formação!</p>
-
-#
-
-<img align="right" alt="GIF animado" height="190px" src="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/assets/VID_20251019151729.gif" />
-
-<h3 align="left">Contatos</h3>
-
-<div align="left">
-  <a href="mailto:dev.luislima@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="27" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/luisv-lima/" target="_blank"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="27" alt="linkedin logo" />
-  </a>
-</div>
-
-<h3 align="left">Tecnologias </h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
-</div>
-
-<br clear="all">
-
-#
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<br/>
 <div align="center">
-  <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luisv-lima&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="GitHub Stats" />
-    &nbsp; &nbsp; &nbsp; &nbsp;
-  <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luisv-lima&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/luisv-lima/luisv-lima/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/luisv-lima/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dev.luislima@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
 </div>
