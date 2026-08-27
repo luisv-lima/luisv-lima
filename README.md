@@ -1,8 +1,8 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/light.svg">
-  <img alt="Luís Vinícius Oliveira Lima" src="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/dark.svg?v=999">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/light.svg?v=999">
+  <img alt="Luís Lima" src="https://raw.githubusercontent.com/luisv-lima/luisv-lima/main/light.svg?v=999">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
